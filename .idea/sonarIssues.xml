@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/dao/AddressDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/dao/BaseDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/dao/ContactDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/dao/JobDBConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/dao/JobDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/dao/PersonDBConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/dao/PersonDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/model/Contact.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/model/Job.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/model/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/service/Writer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/service/writer/JsonCompanyWriter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/service/writer/XmlCompanyWriter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/main/java/com/lillink/parsefourtype/service/writer/YamlCompanyWriter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/test/java/com/lillink/parsefourtype/dao/ContactDBConnectionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/IDEA Projects/ParserFourType/src/test/java/com/lillink/parsefourtype/dao/ContactDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/method/Cricket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/method/Football.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/method/Game.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/method/TemplatePattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
